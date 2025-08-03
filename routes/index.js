@@ -41,3 +41,5 @@ router.use('/analytics', analyticsRoutes);
 router.use((req, res) => {
   res.status(404).json({ error: 'Endpoint not found' });
 });
+
+module.exports = router;
