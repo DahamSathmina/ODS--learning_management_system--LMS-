@@ -359,7 +359,7 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 ## Support
 
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/lms-api/issues)
-- 📖 Docs: [API Documentation]( @coming_soon)
+- 📖 Docs: [API Documentation](https://docs.google.com/document/d/1wzOq13DjH5xsGICiYuE3ZA9Ei5s4bH69i2zXVw2suGE/edit?usp=sharing)
 
 ## Roadmap
 
