@@ -55,7 +55,7 @@ lms-api/
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/DahamSathmina/ODS-LMS-API.git](https://github.com/DahamSathmina/ODS-LMS-API.git)
+   git clone https://github.com/DahamSathmina/ODS-LMS-API.git
    cd ODS-LMS-API
    ```
 
