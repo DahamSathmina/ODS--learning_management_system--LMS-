@@ -55,8 +55,8 @@ lms-api/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/lms-api.git
-   cd lms-api
+   git clone [https://github.com/DahamSathmina/ODS-LMS-API.git](https://github.com/DahamSathmina/ODS-LMS-API.git)
+   cd ODS-LMS-API
    ```
 
 2. **Install dependencies**
@@ -354,13 +354,12 @@ CMD ["npm", "start"]
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 0.2 License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- 📧 Email: support@yourproject.com
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/lms-api/issues)
-- 📖 Docs: [API Documentation](https://docs.yourproject.com)
+- 📖 Docs: [API Documentation]( @coming_soon)
 
 ## Roadmap
 
