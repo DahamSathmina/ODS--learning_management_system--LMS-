@@ -30,8 +30,8 @@ A comprehensive REST API for a Learning Management System built with Node.js, Ex
 
 ```
 lms-api/
-├── controllers/         # Request handlers
-├── middleware/         # Custom middleware
+├── controllers/       # Request handlers
+├── middleware/        # Custom middleware
 ├── models/            # Data models
 ├── routes/            # API routes
 ├── services/          # Business services
